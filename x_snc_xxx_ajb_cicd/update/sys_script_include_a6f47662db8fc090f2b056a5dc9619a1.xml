@@ -14,6 +14,7 @@ Utils.prototype = {
     logshere: function(){
     gs.info('I added the logs here');
     gs.error('we let andrew in here');
+    gs.warn('ajb was not prepared');
     },
     type: 'Utils'
 };]]></script>
