@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>testpvlp</internal_name>
+        <label_cache>[{"name":"71b20f68-b060-49de-b6b8-44ea371208b6.Records","label":"1➛Records","reference_display":"Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"71b20f68-b060-49de-b6b8-44ea371208b6.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"71b20f68-b060-49de-b6b8-44ea371208b6.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>testPVLP</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>prasanthi.pvl@snc</sys_created_by>
+        <sys_created_on>2020-03-03 19:17:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>404d3606dbd380d067abf9741d961918</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>testPVLP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AJB CICD" source="x_snc_xxx_ajb_cicd">feb61e86dbb20450f2b056a5dc9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name>sys_hub_flow_404d3606dbd380d067abf9741d961918</sys_update_name>
+        <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
+        <sys_updated_on>2020-03-03 19:31:46</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=404d3606dbd380d067abf9741d961918"/>
+    <sys_variable_value action="delete_multiple" query="document_key=404d3606dbd380d067abf9741d961918"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=404d3606dbd380d067abf9741d961918^sys_idNOT IN959083cedb178410f2b056a5dc96199e"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="testPVLP">404d3606dbd380d067abf9741d961918</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>prasanthi.pvl@snc</sys_created_by>
+        <sys_created_on>2020-03-03 19:31:46</sys_created_on>
+        <sys_id>959083cedb178410f2b056a5dc96199e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
+        <sys_updated_on>2020-03-03 19:31:46</sys_updated_on>
+        <ui_id>71b20f68-b060-49de-b6b8-44ea371208b6</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=959083cedb178410f2b056a5dc96199e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>959083cedb178410f2b056a5dc96199e</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>prasanthi.pvl@snc</sys_created_by>
+        <sys_created_on>2020-03-03 19:31:46</sys_created_on>
+        <sys_id>919083cedb178410f2b056a5dc9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
+        <sys_updated_on>2020-03-03 19:31:46</sys_updated_on>
+        <value>sys_atf_test_suite</value>
+        <variable display_value="">8a07ee090b30030085c083eb37673aff</variable>
+    </sys_variable_value>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=404d3606dbd380d067abf9741d961918^sys_idNOT IN044d3606dbd380d067abf9741d961919"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>404d3606dbd380d067abf9741d961918</id>
+        <name>testPVLP</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>prasanthi.pvl@snc</sys_created_by>
+        <sys_created_on>2020-03-03 19:17:13</sys_created_on>
+        <sys_id>044d3606dbd380d067abf9741d961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
+        <sys_updated_on>2020-03-03 19:17:13</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_hub_action_instance action="delete_multiple" query="flow=404d3606dbd380d067abf9741d961918^sys_idNOT IN959083cedb178410f2b056a5dc96199e"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="testPVLP">404d3606dbd380d067abf9741d961918</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>prasanthi.pvl@snc</sys_created_by>
+        <sys_created_on>2020-03-03 19:31:46</sys_created_on>
+        <sys_id>959083cedb178410f2b056a5dc96199e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
+        <sys_updated_on>2020-03-03 19:31:46</sys_updated_on>
+        <ui_id>71b20f68-b060-49de-b6b8-44ea371208b6</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=959083cedb178410f2b056a5dc96199e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>959083cedb178410f2b056a5dc96199e</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>prasanthi.pvl@snc</sys_created_by>
+        <sys_created_on>2020-03-03 19:31:46</sys_created_on>
+        <sys_id>919083cedb178410f2b056a5dc9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
+        <sys_updated_on>2020-03-03 19:31:46</sys_updated_on>
+        <value>sys_atf_test_suite</value>
+        <variable display_value="">8a07ee090b30030085c083eb37673aff</variable>
+    </sys_variable_value>
+</record_update>
