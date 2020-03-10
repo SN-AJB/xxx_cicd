@@ -23,6 +23,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-03 19:26:42</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>876ffa4edb178410f2b056a5dc9619fa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>testPVLP</sys_name>

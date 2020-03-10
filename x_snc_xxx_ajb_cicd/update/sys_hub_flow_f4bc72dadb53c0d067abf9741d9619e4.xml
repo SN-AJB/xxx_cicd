@@ -27,6 +27,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:53:18</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>f4bc72dadb53c0d067abf9741d9619e4</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>exporting</sys_name>
@@ -52,14 +53,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:55:04</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>361dbadadb53c0d067abf9741d9619c3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
         <sys_overrides/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:04</sys_updated_on>
         <time/>
@@ -113,11 +111,7 @@
         <sys_created_on>2020-03-04 13:54:03</sys_created_on>
         <sys_id>84ecb6dadb53c0d067abf9741d96196a</sys_id>
         <sys_mod_count>16</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:12:28</sys_updated_on>
         <ui_id>9c08ac0f-9fb3-4512-a737-ef8076f106f3</ui_id>
@@ -180,11 +174,7 @@
         <sys_created_on>2020-03-04 13:54:04</sys_created_on>
         <sys_id>84ecb6dadb53c0d067abf9741d961971</sys_id>
         <sys_mod_count>16</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:12:28</sys_updated_on>
         <ui_id>25261422-b0cf-4fa2-bf0c-e116fdb64921</ui_id>
@@ -211,16 +201,11 @@
         <flow display_value="exporting">f4bc72dadb53c0d067abf9741d9619e4</flow>
         <name>Run Once</name>
         <remote_sys_id/>
-        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:54:24</sys_created_on>
         <sys_id>c5fc76dadb53c0d067abf9741d96192c</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:12:28</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
@@ -247,16 +232,11 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>f4bc72dadb53c0d067abf9741d9619e4</id>
         <name>exporting</name>
-        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:53:18</sys_created_on>
         <sys_id>38bc72dadb53c0d067abf9741d9619e7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:53:18</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -276,11 +256,7 @@
         <sys_created_on>2020-03-04 13:54:03</sys_created_on>
         <sys_id>84ecb6dadb53c0d067abf9741d96196a</sys_id>
         <sys_mod_count>16</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:12:28</sys_updated_on>
         <ui_id>9c08ac0f-9fb3-4512-a737-ef8076f106f3</ui_id>
@@ -343,11 +319,7 @@
         <sys_created_on>2020-03-04 13:54:04</sys_created_on>
         <sys_id>84ecb6dadb53c0d067abf9741d961971</sys_id>
         <sys_mod_count>16</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:12:28</sys_updated_on>
         <ui_id>25261422-b0cf-4fa2-bf0c-e116fdb64921</ui_id>
@@ -373,18 +345,14 @@
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"7e1dbadadb53c0d067abf9741d9619c5","name":"plan"}}</plan>
         <plan_id>f4bc72dadb53c0d067abf9741d9619e4</plan_id>
         <snapshot>cf2d3edadb53c0d067abf9741d9619c0</snapshot>
-        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:55:04</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>7e1dbadadb53c0d067abf9741d9619c5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
         <sys_overrides/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:04</sys_updated_on>
         <trigger display_value="">361dbadadb53c0d067abf9741d9619c3</trigger>
@@ -414,6 +382,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:55:03</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>aa1dbadadb53c0d067abf9741d96195f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
@@ -444,11 +413,7 @@
         <sys_created_on>2020-03-04 13:55:03</sys_created_on>
         <sys_id>6a1dbadadb53c0d067abf9741d96196a</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:03</sys_updated_on>
         <ui_id>25261422-b0cf-4fa2-bf0c-e116fdb64921</ui_id>
@@ -483,11 +448,7 @@
         <sys_created_on>2020-03-04 13:55:03</sys_created_on>
         <sys_id>ee1dbadadb53c0d067abf9741d961965</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:03</sys_updated_on>
         <ui_id>9c08ac0f-9fb3-4512-a737-ef8076f106f3</ui_id>
@@ -542,16 +503,11 @@
         <flow display_value="exporting">aa1dbadadb53c0d067abf9741d96195f</flow>
         <name>Run Once</name>
         <remote_sys_id/>
-        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:55:03</sys_created_on>
         <sys_id>221dbadadb53c0d067abf9741d96196c</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:04</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
@@ -578,16 +534,11 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>aa1dbadadb53c0d067abf9741d96195f</id>
         <name>exporting</name>
-        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 13:55:03</sys_created_on>
         <sys_id>ae1dbadadb53c0d067abf9741d96195f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:03</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -607,11 +558,7 @@
         <sys_created_on>2020-03-04 13:55:03</sys_created_on>
         <sys_id>6a1dbadadb53c0d067abf9741d96196a</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:03</sys_updated_on>
         <ui_id>25261422-b0cf-4fa2-bf0c-e116fdb64921</ui_id>
@@ -646,11 +593,7 @@
         <sys_created_on>2020-03-04 13:55:03</sys_created_on>
         <sys_id>ee1dbadadb53c0d067abf9741d961965</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 13:55:03</sys_updated_on>
         <ui_id>9c08ac0f-9fb3-4512-a737-ef8076f106f3</ui_id>
