@@ -13,6 +13,7 @@ uninstall_app.prototype = {
     },
 	cookies: function() {
 		gs.warn('no wai');
+		gs.error('wai');
 	},
     type: 'uninstall_app'
 };]]></script>
@@ -20,13 +21,13 @@ uninstall_app.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:13:45</sys_created_on>
         <sys_id>83ba3110db6388d067abf9741d961947</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>uninstall_app</sys_name>
         <sys_package display_value="AJB CICD" source="x_snc_xxx_ajb_cicd">feb61e86dbb20450f2b056a5dc9619f1</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
         <sys_update_name>sys_script_include_83ba3110db6388d067abf9741d961947</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-10 14:13:45</sys_updated_on>
+        <sys_updated_on>2020-03-10 14:19:14</sys_updated_on>
     </sys_script_include>
 </record_update>

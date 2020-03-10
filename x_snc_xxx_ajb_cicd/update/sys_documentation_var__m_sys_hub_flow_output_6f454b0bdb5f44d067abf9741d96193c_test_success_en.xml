@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Mapping Test to Apps" language="en" table="x_snc_xxx_ajb_cicd_mapping_to_apps">
+    <sys_documentation element="test_success" label="Test Success" language="en" table="var__m_sys_hub_flow_output_6f454b0bdb5f44d067abf9741d96193c">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>test_success</element>
             <help/>
             <hint/>
-            <label>Mapping Test to Apps</label>
+            <label>Test Success</label>
             <language>en</language>
-            <name>x_snc_xxx_ajb_cicd_mapping_to_apps</name>
-            <plural>Mapping Test to Apps</plural>
+            <name>var__m_sys_hub_flow_output_6f454b0bdb5f44d067abf9741d96193c</name>
+            <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-06 22:00:34</sys_created_on>
-            <sys_id>4cac3590db6388d067abf9741d9619d3</sys_id>
+            <sys_created_on>2020-03-06 22:26:21</sys_created_on>
+            <sys_id>3b454b0bdb5f44d067abf9741d96197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Mapping Test to Apps</sys_name>
+            <sys_name>Test Success</sys_name>
             <sys_package display_value="AJB CICD" source="x_snc_xxx_ajb_cicd">feb61e86dbb20450f2b056a5dc9619f1</sys_package>
             <sys_policy/>
             <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_xxx_ajb_cicd_mapping_to_apps__en</sys_update_name>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_6f454b0bdb5f44d067abf9741d96193c_test_success_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-06 22:00:34</sys_updated_on>
+            <sys_updated_on>2020-03-06 22:26:21</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
