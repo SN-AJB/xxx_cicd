@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="AJB CICD">05871286dbb20450f2b056a5dc96194b</applicable_page>
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent display_value="derk">9f422767db5fc810f2b056a5dc9619a6</macroponent>
+        <macroponent_config>{
+  "label" : ""
+}</macroponent_config>
+        <name>derk</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">e1871a0adbb20450f2b056a5dc961960</placeholder>
+        <slot/>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-08 13:49:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>93422767db5fc810f2b056a5dc9619a9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>derk</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AJB CICD" source="x_snc_xxx_ajb_cicd">feb61e86dbb20450f2b056a5dc9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_93422767db5fc810f2b056a5dc9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-08 13:50:38</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="delete_multiple" query="document_key=93422767db5fc810f2b056a5dc9619a9"/>
+</record_update>

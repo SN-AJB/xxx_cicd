@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mapping Test to Apps" max_length="40" name="x_snc_xxx_ajb_cicd_mapping_to_apps" sizeclass="0" type="collection">
+        <element label="Application" max_length="32" name="application" reference="sys_scope" type="reference"/>
+        <element label="Test Suite" max_length="32" name="test_suite" reference="sys_atf_test_suite" type="reference"/>
+        <index name="index">
+            <element name="test_suite"/>
+        </index>
+        <index name="index2">
+            <element name="application"/>
+        </index>
+    </element>
+</database>
