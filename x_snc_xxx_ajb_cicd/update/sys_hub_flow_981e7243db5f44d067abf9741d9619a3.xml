@@ -27,7 +27,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-06 21:54:42</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>981e7243db5f44d067abf9741d9619a3</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Lookup Tests</sys_name>
@@ -63,7 +62,11 @@
         <sys_created_on>2020-03-06 22:25:41</sys_created_on>
         <sys_id>0225470bdb5f44d067abf9741d96194e</sys_id>
         <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:10</sys_updated_on>
         <ui_id>a18ef374-e5bc-4130-b2fd-44191fd0afba</ui_id>
@@ -99,7 +102,11 @@
         <sys_created_on>2020-03-06 22:13:28</sys_created_on>
         <sys_id>0f528b47db5f44d067abf9741d9619b9</sys_id>
         <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:09</sys_updated_on>
         <ui_id>0cb872b6-1786-4c77-8704-a98d400e6041</ui_id>
@@ -165,7 +172,11 @@
         <sys_created_on>2020-03-06 22:13:29</sys_created_on>
         <sys_id>17528b47db5f44d067abf9741d9619c7</sys_id>
         <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:10</sys_updated_on>
         <ui_id>d69c787c-4140-4c25-9873-f1f8dbb07ea8</ui_id>
@@ -202,7 +213,11 @@
         <sys_created_on>2020-03-06 22:01:43</sys_created_on>
         <sys_id>baafbe83db5f44d067abf9741d96198f</sys_id>
         <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:09</sys_updated_on>
         <ui_id>dcdb9446-cef5-4871-83f8-6af42622b5b3</ui_id>
@@ -306,7 +321,11 @@
         <sys_created_on>2020-03-06 22:25:41</sys_created_on>
         <sys_id>c625470bdb5f44d067abf9741d961951</sys_id>
         <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:10</sys_updated_on>
         <ui_id>bba3deaf-fb2d-44d5-be8d-477824174246</ui_id>
@@ -331,11 +350,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>981e7243db5f44d067abf9741d9619a3</id>
         <name>Lookup Tests</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-06 21:54:42</sys_created_on>
         <sys_id>581e7243db5f44d067abf9741d9619a4</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 21:54:42</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -520,7 +544,11 @@
         <sys_created_on>2020-03-06 22:01:43</sys_created_on>
         <sys_id>baafbe83db5f44d067abf9741d96198f</sys_id>
         <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:09</sys_updated_on>
         <ui_id>dcdb9446-cef5-4871-83f8-6af42622b5b3</ui_id>
@@ -618,7 +646,11 @@
         <sys_created_on>2020-03-06 22:13:28</sys_created_on>
         <sys_id>0f528b47db5f44d067abf9741d9619b9</sys_id>
         <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:09</sys_updated_on>
         <ui_id>0cb872b6-1786-4c77-8704-a98d400e6041</ui_id>
@@ -698,7 +730,11 @@
         <sys_created_on>2020-03-06 22:25:41</sys_created_on>
         <sys_id>0225470bdb5f44d067abf9741d96194e</sys_id>
         <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:10</sys_updated_on>
         <ui_id>a18ef374-e5bc-4130-b2fd-44191fd0afba</ui_id>
@@ -741,7 +777,11 @@
         <sys_created_on>2020-03-06 22:13:29</sys_created_on>
         <sys_id>17528b47db5f44d067abf9741d9619c7</sys_id>
         <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:10</sys_updated_on>
         <ui_id>d69c787c-4140-4c25-9873-f1f8dbb07ea8</ui_id>
@@ -783,7 +823,11 @@
         <sys_created_on>2020-03-06 22:25:41</sys_created_on>
         <sys_id>c625470bdb5f44d067abf9741d961951</sys_id>
         <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:10</sys_updated_on>
         <ui_id>bba3deaf-fb2d-44d5-be8d-477824174246</ui_id>
@@ -909,14 +953,18 @@
         <plan>com.snc.process_flow.engine.ProcessPlan@cf688f</plan>
         <plan_id display_value="Lookup Tests">981e7243db5f44d067abf9741d9619a3</plan_id>
         <snapshot>6f454b0bdb5f44d067abf9741d96193c</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-06 22:27:09</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>e375074bdb5f44d067abf9741d96194b</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
         <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:27:09</sys_updated_on>
     </sys_flow_subflow_plan>
@@ -945,7 +993,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-06 22:26:20</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>6f454b0bdb5f44d067abf9741d96193c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
@@ -982,7 +1029,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>04554b0bdb5f44d067abf9741d96198c</sys_id>
         <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>d69c787c-4140-4c25-9873-f1f8dbb07ea8</ui_id>
@@ -1023,7 +1074,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>33454b0bdb5f44d067abf9741d961985</sys_id>
         <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>a18ef374-e5bc-4130-b2fd-44191fd0afba</ui_id>
@@ -1061,7 +1116,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>48554b0bdb5f44d067abf9741d961994</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>dcdb9446-cef5-4871-83f8-6af42622b5b3</ui_id>
@@ -1127,7 +1186,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>8c554b0bdb5f44d067abf9741d961988</sys_id>
         <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>bba3deaf-fb2d-44d5-be8d-477824174246</ui_id>
@@ -1162,7 +1225,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>8c554b0bdb5f44d067abf9741d961996</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>0cb872b6-1786-4c77-8704-a98d400e6041</ui_id>
@@ -1211,11 +1278,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>6f454b0bdb5f44d067abf9741d96193c</id>
         <name>Lookup Tests</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-06 22:26:20</sys_created_on>
         <sys_id>23454b0bdb5f44d067abf9741d96193e</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:20</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -1400,7 +1472,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>48554b0bdb5f44d067abf9741d961994</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>dcdb9446-cef5-4871-83f8-6af42622b5b3</ui_id>
@@ -1460,7 +1536,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>8c554b0bdb5f44d067abf9741d961996</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>0cb872b6-1786-4c77-8704-a98d400e6041</ui_id>
@@ -1541,7 +1621,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>04554b0bdb5f44d067abf9741d96198c</sys_id>
         <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>d69c787c-4140-4c25-9873-f1f8dbb07ea8</ui_id>
@@ -1582,7 +1666,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>33454b0bdb5f44d067abf9741d961985</sys_id>
         <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>a18ef374-e5bc-4130-b2fd-44191fd0afba</ui_id>
@@ -1625,7 +1713,11 @@
         <sys_created_on>2020-03-06 22:26:22</sys_created_on>
         <sys_id>8c554b0bdb5f44d067abf9741d961988</sys_id>
         <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-06 22:26:22</sys_updated_on>
         <ui_id>bba3deaf-fb2d-44d5-be8d-477824174246</ui_id>

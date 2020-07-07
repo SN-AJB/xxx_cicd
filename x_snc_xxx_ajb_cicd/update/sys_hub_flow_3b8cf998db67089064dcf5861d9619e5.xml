@@ -27,7 +27,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:20:54</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>3b8cf998db67089064dcf5861d9619e5</sys_id>
         <sys_mod_count>10</sys_mod_count>
         <sys_name>installstuffs</sys_name>
@@ -53,11 +52,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:28:49</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>7b5eb15cdb67089064dcf5861d96190e</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
         <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope/>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:28:49</sys_updated_on>
         <time/>
@@ -109,7 +111,11 @@
         <sys_created_on>2020-03-10 14:26:42</sys_created_on>
         <sys_id>30edfd98db67089064dcf5861d961963</sys_id>
         <sys_mod_count>20</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:37:32</sys_updated_on>
         <ui_id>c4ceb63e-d30c-4986-a814-4f224c77eccd</ui_id>
@@ -178,11 +184,16 @@
         <flow display_value="installstuffs">3b8cf998db67089064dcf5861d9619e5</flow>
         <name>Run Once</name>
         <remote_sys_id/>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:26:42</sys_created_on>
         <sys_id>f4edfd98db67089064dcf5861d961960</sys_id>
         <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope/>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:37:32</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
@@ -209,11 +220,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>3b8cf998db67089064dcf5861d9619e5</id>
         <name>installstuffs</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:20:54</sys_created_on>
         <sys_id>3b8c3d98db67089064dcf5861d9619d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope/>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:20:54</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -231,7 +247,11 @@
         <sys_created_on>2020-03-10 14:26:42</sys_created_on>
         <sys_id>30edfd98db67089064dcf5861d961963</sys_id>
         <sys_mod_count>20</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:37:32</sys_updated_on>
         <ui_id>c4ceb63e-d30c-4986-a814-4f224c77eccd</ui_id>
@@ -299,14 +319,18 @@
         <plan/>
         <plan_id>3b8cf998db67089064dcf5861d9619e5</plan_id>
         <snapshot>b73ef91cdb67089064dcf5861d961935</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:28:49</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>f75eb15cdb67089064dcf5861d961911</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
         <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope/>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:28:49</sys_updated_on>
         <trigger display_value="">7b5eb15cdb67089064dcf5861d96190e</trigger>
@@ -336,7 +360,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:28:17</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>b73ef91cdb67089064dcf5861d961935</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name/>
@@ -365,7 +388,11 @@
         <sys_created_on>2020-03-10 14:28:17</sys_created_on>
         <sys_id>0c4ef91cdb67089064dcf5861d961939</sys_id>
         <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:37:31</sys_updated_on>
         <ui_id>c4ceb63e-d30c-4986-a814-4f224c77eccd</ui_id>
@@ -434,11 +461,16 @@
         <flow display_value="installstuffs">b73ef91cdb67089064dcf5861d961935</flow>
         <name>Run Once</name>
         <remote_sys_id/>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:28:17</sys_created_on>
         <sys_id>c04ef91cdb67089064dcf5861d961939</sys_id>
         <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope/>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:37:32</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
@@ -465,11 +497,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>b73ef91cdb67089064dcf5861d961935</id>
         <name>installstuffs</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 14:28:17</sys_created_on>
         <sys_id>3b3ef91cdb67089064dcf5861d961936</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope/>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:28:17</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -487,7 +524,11 @@
         <sys_created_on>2020-03-10 14:28:17</sys_created_on>
         <sys_id>0c4ef91cdb67089064dcf5861d961939</sys_id>
         <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-10 14:37:31</sys_updated_on>
         <ui_id>c4ceb63e-d30c-4986-a814-4f224c77eccd</ui_id>

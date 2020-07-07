@@ -27,7 +27,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-07 21:44:38</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>373f628edbf20450f2b056a5dc961981</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>CICD Try</sys_name>
@@ -58,7 +57,11 @@
         <sys_created_on>2020-03-02 13:24:57</sys_created_on>
         <sys_id>0e036831db1f00d067abf9741d961941</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <ui_id>f9c28095-5205-4623-84d6-f335577cef59</ui_id>
@@ -107,7 +110,11 @@
         <sys_created_on>2020-02-14 22:14:24</sys_created_on>
         <sys_id>cc39f254db8fc850f2b056a5dc961921</sys_id>
         <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <ui_id>3a12acb3-42f9-4fa3-82eb-7df9a22edd47</ui_id>
@@ -176,11 +183,16 @@
         <flow display_value="CICD Try">373f628edbf20450f2b056a5dc961981</flow>
         <name>Run Once</name>
         <remote_sys_id/>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-14 22:14:24</sys_created_on>
         <sys_id>8c39f254db8fc850f2b056a5dc96191b</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
@@ -207,11 +219,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>373f628edbf20450f2b056a5dc961981</id>
         <name>CICD Try</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-07 21:44:39</sys_created_on>
         <sys_id>3f3f628edbf20450f2b056a5dc961983</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-02-07 21:44:39</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -231,7 +248,11 @@
         <sys_created_on>2020-03-02 13:24:57</sys_created_on>
         <sys_id>0e036831db1f00d067abf9741d961941</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <ui_id>f9c28095-5205-4623-84d6-f335577cef59</ui_id>
@@ -280,7 +301,11 @@
         <sys_created_on>2020-02-14 22:14:24</sys_created_on>
         <sys_id>cc39f254db8fc850f2b056a5dc961921</sys_id>
         <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <ui_id>3a12acb3-42f9-4fa3-82eb-7df9a22edd47</ui_id>

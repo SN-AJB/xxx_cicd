@@ -27,7 +27,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-03 21:13:26</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>aad71706db978410f2b056a5dc9619e9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>testingcicd</sys_name>
@@ -46,11 +45,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>aad71706db978410f2b056a5dc9619e9</id>
         <name>testingcicd</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-03 21:13:26</sys_created_on>
         <sys_id>ead71706db978410f2b056a5dc9619eb</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-03 21:13:26</sys_updated_on>
     </sys_flow_cat_variable_model>

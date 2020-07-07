@@ -27,7 +27,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 14:35:18</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>14564316db93c0d067abf9741d9619b2</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>exportsubflow</sys_name>
@@ -58,7 +57,11 @@
         <sys_created_on>2020-03-04 14:35:57</sys_created_on>
         <sys_id>75764716db93c0d067abf9741d961983</sys_id>
         <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:36:10</sys_updated_on>
         <ui_id>670b5c8b-d2d1-45a5-be8d-6b7beb6e61c2</ui_id>
@@ -82,11 +85,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>14564316db93c0d067abf9741d9619b2</id>
         <name>exportsubflow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 14:35:19</sys_created_on>
         <sys_id>d0564316db93c0d067abf9741d9619b3</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:35:19</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -188,7 +196,11 @@
         <sys_created_on>2020-03-04 14:35:57</sys_created_on>
         <sys_id>75764716db93c0d067abf9741d961983</sys_id>
         <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:36:10</sys_updated_on>
         <ui_id>670b5c8b-d2d1-45a5-be8d-6b7beb6e61c2</ui_id>
@@ -237,14 +249,18 @@
         <plan>com.snc.process_flow.engine.ProcessPlan@4f2413</plan>
         <plan_id display_value="exportsubflow">14564316db93c0d067abf9741d9619b2</plan_id>
         <snapshot>c8868716db93c0d067abf9741d961933</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 14:36:09</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>60868716db93c0d067abf9741d961992</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
         <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:36:09</sys_updated_on>
     </sys_flow_subflow_plan>
@@ -273,7 +289,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 14:36:06</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>c8868716db93c0d067abf9741d961933</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
@@ -304,7 +319,11 @@
         <sys_created_on>2020-03-04 14:36:08</sys_created_on>
         <sys_id>64868716db93c0d067abf9741d961989</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:36:08</sys_updated_on>
         <ui_id>670b5c8b-d2d1-45a5-be8d-6b7beb6e61c2</ui_id>
@@ -328,11 +347,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>c8868716db93c0d067abf9741d961933</id>
         <name>exportsubflow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-04 14:36:06</sys_created_on>
         <sys_id>cc868716db93c0d067abf9741d961933</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:36:06</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -434,7 +458,11 @@
         <sys_created_on>2020-03-04 14:36:08</sys_created_on>
         <sys_id>64868716db93c0d067abf9741d961989</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-04 14:36:08</sys_updated_on>
         <ui_id>670b5c8b-d2d1-45a5-be8d-6b7beb6e61c2</ui_id>

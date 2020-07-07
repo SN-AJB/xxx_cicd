@@ -27,7 +27,6 @@
         <sys_created_by>prasanthi.pvl@snc</sys_created_by>
         <sys_created_on>2020-03-03 19:17:13</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>404d3606dbd380d067abf9741d961918</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>testPVLP</sys_name>
@@ -58,7 +57,11 @@
         <sys_created_on>2020-03-03 19:31:46</sys_created_on>
         <sys_id>959083cedb178410f2b056a5dc96199e</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
         <sys_updated_on>2020-03-03 19:31:46</sys_updated_on>
         <ui_id>71b20f68-b060-49de-b6b8-44ea371208b6</ui_id>
@@ -82,11 +85,16 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>404d3606dbd380d067abf9741d961918</id>
         <name>testPVLP</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>prasanthi.pvl@snc</sys_created_by>
         <sys_created_on>2020-03-03 19:17:13</sys_created_on>
         <sys_id>044d3606dbd380d067abf9741d961919</sys_id>
         <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
         <sys_updated_on>2020-03-03 19:17:13</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -106,7 +114,11 @@
         <sys_created_on>2020-03-03 19:31:46</sys_created_on>
         <sys_id>959083cedb178410f2b056a5dc96199e</sys_id>
         <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
         <sys_updated_by>prasanthi.pvl@snc</sys_updated_by>
         <sys_updated_on>2020-03-03 19:31:46</sys_updated_on>
         <ui_id>71b20f68-b060-49de-b6b8-44ea371208b6</ui_id>
