@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>cicd_try</internal_name>
-        <label_cache>[{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.http_status","label":"1➛HTTP Status","reference_display":"HTTP Status","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status","label":"1➛Status","reference_display":"Status","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status_label","label":"1➛Status Label","reference_display":"Status Label","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status_message","label":"1➛Status Message","reference_display":"Status Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status_detail","label":"1➛Status Detail","reference_display":"Status Detail","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.error","label":"1➛Error","reference_display":"Error","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.progress_url","label":"1➛Progress URL","reference_display":"Progress URL","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.progress_id","label":"1➛Progress Id","reference_display":"Progress Id","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string"}}]</label_cache>
+        <label_cache>[{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.progress_id","label":"1➛Progress Id","reference_display":"Progress Id","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.progress_url","label":"1➛Progress URL","reference_display":"Progress URL","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.error","label":"1➛Error","reference_display":"Error","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status_detail","label":"1➛Status Detail","reference_display":"Status Detail","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status_message","label":"1➛Status Message","reference_display":"Status Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status_label","label":"1➛Status Label","reference_display":"Status Label","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.status","label":"1➛Status","reference_display":"Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"3a12acb3-42f9-4fa3-82eb-7df9a22edd47.http_status","label":"1➛HTTP Status","reference_display":"HTTP Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true"}},{"name":"f9c28095-5205-4623-84d6-f335577cef59.Records","label":"2➛Records","reference_display":"Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f9c28095-5205-4623-84d6-f335577cef59.Table","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f9c28095-5205-4623-84d6-f335577cef59.Count","label":"2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>CICD Try</name>
@@ -28,7 +28,7 @@
         <sys_created_on>2020-02-07 21:44:38</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>373f628edbf20450f2b056a5dc961981</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>CICD Try</sys_name>
         <sys_overrides/>
         <sys_package display_value="AJB CICD" source="x_snc_xxx_ajb_cicd">feb61e86dbb20450f2b056a5dc9619f1</sys_package>
@@ -36,12 +36,65 @@
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
         <sys_update_name>sys_hub_flow_373f628edbf20450f2b056a5dc961981</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-14 22:14:24</sys_updated_on>
+        <sys_updated_on>2020-03-02 13:24:58</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=373f628edbf20450f2b056a5dc961981"/>
     <sys_variable_value action="delete_multiple" query="document_key=373f628edbf20450f2b056a5dc961981"/>
-    <sys_hub_flow_component action="delete_multiple" query="flow=373f628edbf20450f2b056a5dc961981^sys_idNOT INcc39f254db8fc850f2b056a5dc961921"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=373f628edbf20450f2b056a5dc961981^sys_idNOT IN0e036831db1f00d067abf9741d961941,cc39f254db8fc850f2b056a5dc961921"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="CICD Try">373f628edbf20450f2b056a5dc961981</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 13:24:57</sys_created_on>
+        <sys_id>0e036831db1f00d067abf9741d961941</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
+        <ui_id>f9c28095-5205-4623-84d6-f335577cef59</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0e036831db1f00d067abf9741d961941"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e036831db1f00d067abf9741d961941</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 13:24:57</sys_created_on>
+        <sys_id>1e036831db1f00d067abf9741d9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
+        <value>description=candy</value>
+        <variable display_value="">460722490b30030085c083eb37673a0b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e036831db1f00d067abf9741d961941</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 13:24:57</sys_created_on>
+        <sys_id>96036831db1f00d067abf9741d9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">8a07ee090b30030085c083eb37673aff</variable>
+    </sys_variable_value>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_type display_value="Install Application With Scope">a32920cd77633300d4bdaeca7810619f</action_type>
@@ -56,14 +109,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-14 22:14:24</sys_created_on>
         <sys_id>cc39f254db8fc850f2b056a5dc961921</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-14 22:14:24</sys_updated_on>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <ui_id>3a12acb3-42f9-4fa3-82eb-7df9a22edd47</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=cc39f254db8fc850f2b056a5dc961921"/>
@@ -134,14 +187,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-14 22:14:24</sys_created_on>
         <sys_id>8c39f254db8fc850f2b056a5dc96191b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-14 22:14:24</sys_updated_on>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -179,7 +232,60 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-02-07 21:44:39</sys_updated_on>
     </sys_flow_cat_variable_model>
-    <sys_hub_action_instance action="delete_multiple" query="flow=373f628edbf20450f2b056a5dc961981^sys_idNOT INcc39f254db8fc850f2b056a5dc961921"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=373f628edbf20450f2b056a5dc961981^sys_idNOT IN0e036831db1f00d067abf9741d961941,cc39f254db8fc850f2b056a5dc961921"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="CICD Try">373f628edbf20450f2b056a5dc961981</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 13:24:57</sys_created_on>
+        <sys_id>0e036831db1f00d067abf9741d961941</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
+        <ui_id>f9c28095-5205-4623-84d6-f335577cef59</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0e036831db1f00d067abf9741d961941"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e036831db1f00d067abf9741d961941</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 13:24:57</sys_created_on>
+        <sys_id>1e036831db1f00d067abf9741d9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
+        <value>description=candy</value>
+        <variable display_value="">460722490b30030085c083eb37673a0b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e036831db1f00d067abf9741d961941</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 13:24:57</sys_created_on>
+        <sys_id>96036831db1f00d067abf9741d9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">8a07ee090b30030085c083eb37673aff</variable>
+    </sys_variable_value>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_type display_value="Install Application With Scope">a32920cd77633300d4bdaeca7810619f</action_type>
@@ -194,14 +300,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-14 22:14:24</sys_created_on>
         <sys_id>cc39f254db8fc850f2b056a5dc961921</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-14 22:14:24</sys_updated_on>
+        <sys_updated_on>2020-03-02 13:24:57</sys_updated_on>
         <ui_id>3a12acb3-42f9-4fa3-82eb-7df9a22edd47</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=cc39f254db8fc850f2b056a5dc961921"/>

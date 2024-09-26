@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>testingcicd</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>testingcicd</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 21:13:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>aad71706db978410f2b056a5dc9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testingcicd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AJB CICD" source="x_snc_xxx_ajb_cicd">feb61e86dbb20450f2b056a5dc9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name>sys_hub_flow_aad71706db978410f2b056a5dc9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 21:13:26</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=aad71706db978410f2b056a5dc9619e9"/>
+    <sys_variable_value action="delete_multiple" query="document_key=aad71706db978410f2b056a5dc9619e9"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=aad71706db978410f2b056a5dc9619e9^sys_idNOT INead71706db978410f2b056a5dc9619eb"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>aad71706db978410f2b056a5dc9619e9</id>
+        <name>testingcicd</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 21:13:26</sys_created_on>
+        <sys_id>ead71706db978410f2b056a5dc9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AJB CICD">feb61e86dbb20450f2b056a5dc9619f1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 21:13:26</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
